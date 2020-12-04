@@ -36,12 +36,13 @@ When the user is done running the piece at the practice tempo, the user checks t
 when 5 are completed the next tempo is presented to the user. 5% increse in tempo.
 tells user to record after completion
 adds text box for notes button
+links to recording page, metronome & tuner page -
 
 -text box for notes-
 
 
 -menu in practice item-
-metronome 
+metronome - has practice and goal tempo on page of item
 tuner
 drones - saves drones with each item
 
